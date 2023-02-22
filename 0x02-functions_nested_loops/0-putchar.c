@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "main.h"
-
+/**
+ * main - code that prints a string
+ *
+ * Return: always 0
+ */
 int main(void)
 {
 
